@@ -1,0 +1,11 @@
+REACT_APP_NETWORK = 'https://ropsten.infura.io/v3/753cc78f52604510b0dc93c72f623740'
+SKIP_PREFLIGHT_CHECK=true
+
+INFURA_API_KEY="753cc78f52604510b0dc93c72f623740"
+MNEMONIC=ketchup beach oyster flee urge robot craft aspect pelican race jaguar grit
+
+
+
+getweb3.js
+
+truffle-config.js
